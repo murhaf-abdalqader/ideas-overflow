@@ -2,7 +2,7 @@
 This is an overview of the projects I have worked on individually and at UCD as part of my MSc in Business Analytics degree. 
 
 # Bucket Getter - NBA Dashboard 
-Tableau Public Link: https://public.tableau.com/app/profile/murhaf.abdalqader/viz/BucketGetter-NBADashboard/PlayerProfile?publish=yes
+Tableau Public Link: [Click me!](https://public.tableau.com/app/profile/murhaf.abdalqader/viz/BucketGetter-NBADashboard/LandingPage?publish=yes)
 
 For Sports Analytics module, as part of the UCD MSc in Business Analytics Degree. This was built with Python, Excel, Tableau Prep and Tableau. 
 The final data that the user sees through the tool is sourced from 4 different sources: Vladislav Shufinskiy’s Play-by-Play Dataset on Kaggle, Nathan Lauga’s Team Game Results & Performance on Kaggle, 
@@ -28,7 +28,7 @@ NBA’s Player Profile Repository and the NBA’s Player’s Stat Page.
   ![image](https://github.com/murhaf-abdalqader/ideas-overflow/assets/148060625/a11833e3-e930-4c8d-9359-0f0cfb320d66)
 
   # Flight Delay Decision Support System (DSS) 
-  Tableau Public Link: https://public.tableau.com/app/profile/murhaf.abdalqader/viz/MIS41040Team30/Overview
+  Tableau Public Link: [Click me!](https://public.tableau.com/app/profile/murhaf.abdalqader/viz/MIS41040Team30/Overview)
 
   For Business Decision Support Systems module, as part of the UCD MSc in Business Analytics Degree. This was built with Python, Excel, Tableau Prep and Tableau. 
 The final data that the user sees through the tool is sourced from an open source US flight delay dataset.
