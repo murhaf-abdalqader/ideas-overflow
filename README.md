@@ -1,6 +1,29 @@
 # ideas-overflow
 This is an overview of the projects I have worked on individually and at UCD as part of my MSc in Business Analytics degree. 
 
+# Sample Sales Dashboard
+
+This was a training project that I picked up and worked on in PowerBI. Using a sample US company's sales data, I constructed a simple dashboard for business users to be able to get a quick understanding of the sales data across time, by customer type, and by region. 
+
+![Example 2](https://github.com/user-attachments/assets/9e50dc10-7352-49ee-8344-c462b7903c2d)
+
+At the top, a years slicer is customizable to select the year the user wants to view more information about. On the upper right corner, the user can control which state to get sales information on.
+
+![Example 3](https://github.com/user-attachments/assets/f8dca7fd-fab2-4aab-862f-d6bd5f663750)
+
+The monthly sales chart provides information comes with its own custom tooltip that provides more detailed information such as YTD sales, MoM change and MoM/YoY change (how sales different from the same month in the previous year)
+
+![Example 4](https://github.com/user-attachments/assets/8c6efaaf-7e4a-4be4-85a9-e46c51e6d083)
+
+The map chart comes with information about the state sales data.
+
+# Netflix Release Running Total
+
+This exercise was inspired by HowtoPowerBI's sample exercises, with the  task of taking a dataset of Netflix releases (both movies and TV shows) and creating a running total for it. Built on PowerBI, the data was cleaned up to allow for the same item to have multiple release countries and multiple genres. This means that clicking on a specifc genre or a specifc country is possible to get more information on how many other releases fit this. The dashboard also includes a chart to showcase the different release ratings as well.
+
+![Example 5](https://github.com/user-attachments/assets/a6efb252-d28e-49f6-9b56-dacb52e0d98e)
+
+
 # Bucket Getter - NBA Dashboard 
 Tableau Public Link: [Click me!](https://public.tableau.com/app/profile/murhaf.abdalqader/viz/BucketGetter-NBADashboard/LandingPage?publish=yes)
 
