@@ -23,6 +23,12 @@ This exercise was inspired by HowtoPowerBI's sample exercises, with the  task of
 
 ![Example 5](https://github.com/user-attachments/assets/a6efb252-d28e-49f6-9b56-dacb52e0d98e)
 
+The dashboard is easy to navigate, and is color-coded to be simple to understand. Slicer at the top of the dashboard allow users to focus on values for movies or show, and clicking a specific country, rating or genre allows the user to see more detailed information about that specific subset of data.
+
+![Example 7](https://github.com/user-attachments/assets/94213d45-60e9-419a-bb94-d172eba6ac53)
+![Example 6](https://github.com/user-attachments/assets/920c3a3b-64f4-4916-b7f5-0b1ef686d915)
+
+All charts come with their very own custom tooltips.
 
 # Bucket Getter - NBA Dashboard 
 Tableau Public Link: [Click me!](https://public.tableau.com/app/profile/murhaf.abdalqader/viz/BucketGetter-NBADashboard/LandingPage?publish=yes)
